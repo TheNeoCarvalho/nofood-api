@@ -1,13 +1,12 @@
 {
   "name": "nofood.api",
   "version": "1.0.0",
-  "description": "Api feita em nodeJs para utilização do nosso aplicativo NoFood",
+  "description": "Api feita em nodeJs para aplicativo NoFood",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
-  "author": "Ricardo Netto",
+  "author": "Manoel Carvalho",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
